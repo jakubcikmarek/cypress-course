@@ -14,7 +14,11 @@
     "@mui/icons-material": "^5.14.1",
     "@mui/material": "^5.14.1",
     "next": "13.4.12",
+    "prettier": "^3.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "cypress": "^13.10.0"
   }
 }
